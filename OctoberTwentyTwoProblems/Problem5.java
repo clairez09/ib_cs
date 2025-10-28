@@ -10,7 +10,7 @@ public class Problem5 {
         String [][] newdata = new String [rawdata.length+1][rawdata[0].length+1];
         char [] alphabet = {'A','B','C','D','E'};
         for (int i = 1; i<rawdata[0].length+1;i++){
-            newdata[0][i] = "Canidate" + alphabet[i-1];
+            newdata[0][i] = "Canidate " + alphabet[i-1];
         }
         newdata[0][0] = "Precinct";
         for (int k = 1; k<rawdata.length+1;k++){

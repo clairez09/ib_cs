@@ -18,7 +18,7 @@ public class Problem1 {
             int temp = map[row][column];
             int nextRow = (temp / 10) - 1;
             int nextColumn = (temp % 10) - 1;
-            System.out.println(temp);
+            System.out.println("Visited: " + temp);
 
             if (nextRow == row && nextColumn == column) {
                 System.out.println("The treasure is at (" + (row + 1) + ", " + (column + 1) + ")");
