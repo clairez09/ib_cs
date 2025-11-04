@@ -2,11 +2,14 @@ package OctoberThirty;
 import java.util.*;
 public class ImplementingQueues {
     private Queue<Integer> queue;
+    private int max;
     public ImplementingQueues() {
         queue = new LinkedList<>();
     }
     public void enqueue(int element){
+    if queue.size() = max;
     queue.add(element);
+    
     }
     public Integer dequeue() {
     if(queue.isEmpty()) {
