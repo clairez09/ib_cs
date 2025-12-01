@@ -1,0 +1,86 @@
+plant,min_pH,max_pH,microbePreference,phosphateNeed,potassiumNeed,nitrateNeed,aerationNeed,sunlightNeed,nutrientDensity
+Lettuce,6,7,medium,low,medium,medium,loose,partial shade,medium
+Spinach,6.5,7.5,medium,medium,medium,high,loose,partial shade,high
+Kale,6,7.5,high,medium,high,high,loose,partial shade,very high
+Arugula,6,7,medium,low,medium,high,loose,partial shade,high
+Chard,6,7.5,medium,medium,medium,high,loose,partial shade,high
+Cabbage,6,7.5,high,high,high,medium,moderate,partial shade,high
+Broccoli,6,7,high,high,medium,medium,moderate,partial shade,high
+Cauliflower,6.5,7.5,high,high,medium,medium,moderate,partial shade,high
+Mustard Green,6,7.5,high,medium,medium,high,loose,partial shade,very high
+Collard Greens,6.5,7.5,high,medium,medium,high,loose,partial shade,high
+Tomato,6,6.8,high,high,high,high,moderate,full sun,high
+Bell Pepper,6,6.8,high,high,medium,medium,moderate,full sun,high
+Eggplant,6,6.8,medium,medium,medium,high,moderate,full sun,medium
+Cucumber,6,7,medium,medium,high,medium,moderate,full sun,low
+Zucchini,6,7.5,medium,medium,medium,medium,loose,full sun,medium
+Pumpkin,6,6.8,medium,medium,high,medium,loose,full sun,medium
+Squash (Winter),6,7.5,medium,medium,medium,medium,loose,full sun,medium
+Okra,6,7.5,medium,medium,medium,medium,moderate,full sun,medium
+Corn,5.5,7,medium,high,high,high,moderate,full sun,medium
+Popcorn Maize,6,7,medium,medium,high,high,moderate,full sun,medium
+Sweet Corn,6,6.8,medium,high,high,high,moderate,full sun,medium
+Wheat,6,7,low,medium,medium,medium,compact-tolerant,full sun,medium
+Barley,6,7.5,low,medium,medium,medium,compact-tolerant,full sun,medium
+Oats,5.5,7,low,medium,medium,medium,compact-tolerant,full sun,medium
+Rye,5.5,7,low,medium,medium,medium,compact-tolerant,full sun,medium
+Sorghum,6,7.5,low,medium,medium,medium,compact-tolerant,full sun,medium
+Millet,5.8,7.5,low,medium,medium,medium,compact-tolerant,full sun,medium
+Rice,5,6.5,medium,high,high,high,compact-tolerant,full sun,low
+Quinoa,6,8,low,low,medium,medium,loose,full sun,high
+Amaranth,6,7.5,low,medium,medium,high,loose,full sun,high
+Potato,5,6.5,medium,medium,medium,medium,loose,full sun,medium
+Sweet Potato,5,6,medium,medium,medium,medium,loose,full sun,high
+Carrot,6,6.8,medium,medium,medium,medium,loose,full sun,high
+Beetroot,6,7,medium,medium,medium,medium,loose,full sun,high
+Radish,6,7,low,medium,medium,medium,loose,full sun,medium
+Turnip,5.5,7,medium,medium,medium,medium,compact-tolerant,full sun,high
+Parsnip,6,7,medium,medium,medium,medium,loose,full sun,medium
+Onion,6,7,low,low,medium,medium,compact-tolerant,full sun,medium
+Garlic,6,7.5,low,low,medium,medium,compact-tolerant,full sun,high
+Shallot,6,7,low,low,medium,medium,compact-tolerant,full sun,medium
+Leek,6,7,medium,medium,medium,medium,moderate,full sun,medium
+Bean (Green),6,7,high,medium,medium,high,moderate,full sun,high
+Soybean,6,7,high,medium,medium,high,moderate,full sun,high
+Pea,6,7.5,high,medium,low,medium,moderate,full sun,high
+Chickpea,6,7,low,medium,medium,medium,compact-tolerant,full sun,high
+Lentil,6,7.5,low,medium,medium,medium,compact-tolerant,full sun,high
+Peanut,5.8,6.2,medium,low,medium,medium,loose,full sun,high
+Alfalfa,6.5,7.5,high,low,medium,high,moderate,full sun,medium
+Clover,6,7,high,low,medium,medium,moderate,full sun,medium
+Sunflower,6,7.5,low,medium,medium,medium,loose,full sun,medium
+Sesame,6,7.5,low,medium,medium,medium,loose,full sun,medium
+Flax,6,7.5,low,medium,medium,medium,loose,full sun,medium
+Strawberry,5.5,6.5,medium,medium,medium,high,loose,full sun,high
+Blueberry,4.5,5.5,medium,medium,medium,medium,loose,full sun,high
+Raspberry,5.5,6.5,medium,medium,medium,medium,loose,full sun,high
+Blackberry,5.5,6.5,medium,medium,medium,medium,loose,full sun,medium
+Grape,5.5,6.5,low,medium,medium,medium,moderate,full sun,medium
+Apple,6,7,medium,high,medium,medium,moderate,full sun,medium
+Pear,6,7.5,medium,medium,medium,medium,moderate,full sun,medium
+Peach,6,7,medium,medium,medium,medium,moderate,full sun,medium
+Plum,6,7.5,medium,medium,medium,medium,moderate,full sun,medium
+Cherry,6,7.5,medium,medium,medium,medium,moderate,full sun,medium
+Mango,5.5,7.5,medium,medium,high,medium,loose,full sun,medium
+Banana,5.5,7,high,high,high,medium,loose,full sun,medium
+Papaya,5.5,7,medium,medium,medium,medium,loose,full sun,medium
+Pineapple,4.5,6.5,medium,medium,medium,medium,loose,full sun,medium
+Avocado,6,7,medium,high,medium,medium,loose,full sun,high
+Fig,6,7.5,low,medium,medium,medium,moderate,full sun,medium
+Pomegranate,5.5,7,low,medium,medium,medium,moderate,full sun,medium
+Olive,6,8.5,low,low,low,low,moderate,full sun,medium
+Basil,6,7.5,medium,medium,medium,medium,loose,full sun,medium
+Parsley,6,7,medium,medium,medium,medium,loose,partial shade,high
+Mint,6,7.5,medium,medium,medium,medium,loose,partial shade,medium
+Cilantro,6,7,medium,medium,medium,medium,loose,partial shade,medium
+Dill,5.5,6.5,low,low,low,low,moderate,full sun,medium
+Thyme,6,8,low,low,low,low,moderate,full sun,medium
+Rosemary,6,7.5,low,low,medium,low,moderate,full sun,medium
+Sage,6,7.5,low,medium,medium,low,moderate,full sun,medium
+Oregano,6,8,low,low,low,low,moderate,full sun,medium
+Lavender,6.5,8,low,low,low,low,loose,full sun,low
+Ginger,5.5,6.5,medium,medium,medium,medium,loose,partial shade,medium
+Turmeric,5.5,7,medium,medium,medium,medium,loose,partial shade,medium
+Cassava,5.5,7.5,medium,low,medium,medium,loose,full sun,medium
+Yam,5.5,6.5,medium,medium,medium,medium,loose,full sun,medium
+Taro,5.5,6.5,medium,high,medium,medium,compact-tolerant,partial shade,medium
