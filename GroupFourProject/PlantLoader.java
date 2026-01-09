@@ -6,20 +6,25 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PlantLoader {
-    public static List<Plant> loadPlantsFromCSV(String filename) {
 
+    public static List<Plant> loadPlantsFromCSV(String filename) {
         List<Plant> plants = new ArrayList<>();
 
         try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
-
             String line;
             boolean first = true;
 
             while ((line = br.readLine()) != null) {
-
+                // Skip header row
                 if (first) { first = false; continue; }
+                
+                // Skip empty lines to prevent crashes
+                if (line.trim().isEmpty()) continue;
 
                 String[] parts = line.split(",");
+                
+                // Safety check to ensure line has enough columns
+                if (parts.length < 9) continue;
 
                 Plant p = new Plant(
                     parts[0].trim(),
@@ -42,5 +47,4 @@ public class PlantLoader {
 
         return plants;
     }
-
 }
